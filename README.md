@@ -24,7 +24,7 @@
 
 | | |
 |---|---|
-| **Stack** | Python · PostgreSQL · HTML · CSS |
+| **Stack** | JavaScript · PostgreSQL · HTML · CSS |
 | **Type** | Full-stack web application |
 
 **What it does:**
