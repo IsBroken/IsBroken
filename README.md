@@ -15,6 +15,48 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-333?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Database Design](https://img.shields.io/badge/Database%20Design-333?style=for-the-badge&logo=databasedesign&logoColor=white) ![Basic Web Development](https://img.shields.io/badge/Basic%20Web%20Development-333?style=for-the-badge&logo=basicwebdevelopment&logoColor=white) ![OOP Fundamentals](https://img.shields.io/badge/OOP%20Fundamentals-333?style=for-the-badge&logo=oopfundamentals&logoColor=white) ![Problem-solving](https://img.shields.io/badge/Problem-solving-333?style=for-the-badge&logo=problem-solving&logoColor=white) ![Willingness to Learn](https://img.shields.io/badge/Willingness%20to%20Learn-333?style=for-the-badge&logo=willingnesstolearn&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-333?style=for-the-badge&logo=teamwork&logoColor=white) ![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-333?style=for-the-badge&logo=attentiontodetail&logoColor=white)
 
+### 🚀 Projects
+
+---
+
+#### 🏥 HMS MediCore
+> Hospital Management System built as a learning project to practise backend development and database design.
+
+| | |
+|---|---|
+| **Stack** | Python · PostgreSQL · HTML · CSS |
+| **Type** | Full-stack web application |
+
+**What it does:**
+- Manages patient records and appointment scheduling through a Python backend
+- Stores and retrieves structured medical data using a PostgreSQL database
+- Provides a clean HTML/CSS front-end interface for interacting with the system end-to-end
+
+**Key learnings:** Database schema design under real constraints, connecting a Python backend to a relational DB, and building a functional UI without frameworks.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsBroken)
+
+---
+
+#### 📄 Agreement Maker Prototype
+> A tool that generates basic legal agreement documents from user-supplied inputs.
+
+| | |
+|---|---|
+| **Stack** | Python · MySQL · HTML · CSS |
+| **Type** | Document generation tool |
+
+**What it does:**
+- Captures party details and agreement terms through HTML forms
+- Stores all records in a MySQL database for retrieval and audit
+- Auto-generates formatted legal agreement documents from structured inputs — no manual formatting needed
+
+**Key learnings:** Form handling, template logic, database connectivity, and end-to-end data flow from user input to document output.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsBroken)
+
+---
+
 ### 📚 Currently Learning
 
 JavaScript, Django
@@ -41,7 +83,7 @@ Python programming, web development, database management
 
 ### 🌐 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhayaan1459@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohd-ayaan-shaikh-814220257) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsBroken)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhayaan1459@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-ayaan-shaikh-814220257) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsBroken)
 
 ### ⚡ Fun Fact
 
